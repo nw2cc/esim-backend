@@ -1,0 +1,5 @@
+amiyahttp~=0.0.2
+peewee~=3.17.9
+pymysql~=1.1.1
+pydantic~=1.10.21
+playhouse~=0.1.0
