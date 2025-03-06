@@ -1,3 +1,4 @@
+aiohttp~=3.10.11
 amiyahttp~=0.0.2
 peewee~=3.17.9
 pymysql~=1.1.1

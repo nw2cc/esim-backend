@@ -7,7 +7,6 @@ from src.databases.user import Users, create_admin_user
 from src.models.user import UserQuery, UserModel
 from src.models import ById
 
-
 if not Users.get_or_none(username='admin'):
     try:
         create_admin_user()
